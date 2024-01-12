@@ -275,3 +275,4 @@
 /Users/christopherlee/Git/net-mvc-proj/MvcMovie/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
 /Users/christopherlee/Git/net-mvc-proj/MvcMovie/obj/Debug/net8.0/MvcMovie.csproj.AssemblyReference.cache
 /Users/christopherlee/Git/net-mvc-proj/MvcMovie/obj/Debug/net8.0/MvcMovie.csproj.CopyComplete
+/Users/christopherlee/Git/net-mvc-proj/MvcMovie/obj/Debug/net8.0/MvcMovie.sourcelink.json
